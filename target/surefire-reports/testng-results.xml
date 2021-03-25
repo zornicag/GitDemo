@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="37" started-at="2020-12-07T01:03:57 EET" finished-at="2020-12-07T01:03:57 EET">
+    <groups>
+    </groups>
+    <test name="C:/Users/ZORNICA/IdeaProjects/Mavenjava162" duration-ms="37" started-at="2020-12-07T01:03:57 EET" finished-at="2020-12-07T01:03:57 EET">
+      <class name="org.example.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:org.example.SeleniumTest@60c6f5b]" name="BrowserAutomation" duration-ms="0" started-at="2020-12-07T01:03:57 EET" finished-at="2020-12-07T01:03:57 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:org.example.SeleniumTest@60c6f5b]" name="elementsUI" duration-ms="1" started-at="2020-12-07T01:03:57 EET" finished-at="2020-12-07T01:03:57 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- org.example.SeleniumTest -->
+      <class name="org.example.RESTAPITest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:org.example.RESTAPITest@1e127982]" name="postJira" duration-ms="5" started-at="2020-12-07T01:03:57 EET" finished-at="2020-12-07T01:03:57 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:org.example.RESTAPITest@1e127982]" name="deleteTwitter" duration-ms="0" started-at="2020-12-07T01:03:57 EET" finished-at="2020-12-07T01:03:57 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- org.example.RESTAPITest -->
+    </test> <!-- C:/Users/ZORNICA/IdeaProjects/Mavenjava162 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
